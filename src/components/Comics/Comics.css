@@ -23,6 +23,7 @@
   display: flex;
   margin: auto;
   padding: var(--spacing-small) var(--spacing-medium);
+  color: darkslategrey;
 }
 
 .comics__img {
